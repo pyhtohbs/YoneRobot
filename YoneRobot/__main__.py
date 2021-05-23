@@ -95,8 +95,8 @@ buttons = [
 
 
 HELP_STRINGS = """ 
+ 
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
-
 hayat_IMG = "https://telegra.ph/file/b2ce7fbc00bd55cc089a5.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
