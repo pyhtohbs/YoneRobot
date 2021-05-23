@@ -95,7 +95,7 @@ buttons = [
 
 
 HELP_STRINGS = """
-`ʜɪ.. ɪ'ᴍ` [hayat](https://telegra.ph/file/8523c4861b8be2e531012.jpg) 
+hey there i am  hayat (https://telegra.ph/file/8523c4861b8be2e531012.jpg) 
 `ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..`"""
 
 hayat_IMG = "https://telegra.ph/file/b2ce7fbc00bd55cc089a5.jpg"
