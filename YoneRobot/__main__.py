@@ -74,10 +74,9 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴇʟʟᴏ [🌹🌹](https://telegra.ph/file/8523c4861b8be2e531012.jpg), ɪᴍ HAYAT A POWERFUL GROUP MANAGING BOT WITH WELL UPDATED FEATURES . PROJECT OF 🅿️ʏȶɦօռ 🅿️ɨʀǟȶɛֆ MY OWNER @YOUR_HANDLER ADD ME TO YOUR GROUP.
-`ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help   
-"""
-
+ʜᴇʟʟᴏ  [🌹🌹](https://telegra.ph/file/8523c4861b8be2e531012.jpg), ɪᴍ HAYAT A POWERFUL GROUP MANAGING BOT WITH WELL UPDATED FEATURES 
+`ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ` /help     
+ . PROJECT OF 🅿️ʏȶɦօռ 🅿️ɨʀǟȶɛֆ MY OWNER @YOUR_HANDLER ADD ME TO YOUR GROUP.
 buttons = [
     [
         InlineKeyboardButton(
