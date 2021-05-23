@@ -70,17 +70,4 @@ __New couple of the day may be chosen at 12AM {tomorrow}__"""
             await app.send_message(
                 message.chat.id,
                 text=couple_selection_message
-            )
-     except Exception as 
-    
-         print(e)
-         await message.reply_text(e)
-
-
-
-__help__ = """
- ❍ /couples - To Choose Couple Of The Day
-
- """
-__mod_name__ = "Couples"
-
+          
