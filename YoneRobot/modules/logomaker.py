@@ -1,6 +1,6 @@
-from YoneRobot.events import register
-from YoneRobot import OWNER_ID
-from YoneRobot import telethn as tbot
+from HAYATBot.events import register
+from HAYATot import OWNER_ID
+from HAYATBot import telethn as tbot
 import os 
 from PIL import Image, ImageDraw, ImageFont
 
@@ -40,7 +40,7 @@ async def lego(event):
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
-   await event.reply(f'Error Report @KoraSupport, {e}')
+   await event.reply(f'Error Report @PYTHON_PIRATES, {e}')
 
 
 
@@ -76,7 +76,7 @@ async def lego(event):
     draw.text((x, y), text, font=font, fill="white", stroke_width=0, stroke_fill="white")
     fname2 = "LogoByYone.png"
     img.save(fname2, "png")
-    await tbot.send_file(event.chat_id, fname2, caption="Made By YoneRobot")
+    await tbot.send_file(event.chat_id, fname2, caption="Made By hayatbot")
     if os.path.exists(fname2):
             os.remove(fname2)
  except Exception as e:
